@@ -48,8 +48,8 @@ If the file is still being processed, you will receive a JSON response with an '
 # ScreenShot
 <img width="1165" alt="Screen Shot 2023-06-15 at 5 04 51 PM" src="https://github.com/Jeremenkovic/Project-/assets/102044657/8926798a-475e-497c-87f7-c03c9af2825f">
 
-Contributing
+# Contributing
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
-License
+# License
 MIT © Nemanja Jeremenkovic
