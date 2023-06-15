@@ -28,6 +28,7 @@ celery -A your_project_name worker --loglevel=info
 7. Run Django migrations.
 
  python manage.py migrate
+ 
 8. Run the Django development server.
  python manage.py runserver
 
